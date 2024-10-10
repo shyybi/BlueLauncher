@@ -39,12 +39,9 @@ You can download from [GitHub Releases](https://github.com/shyybi/BlueLauncher/r
 
 [![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/shyybi/BlueLauncher/releases/latest)
 
-#### Latest Pre-Release
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases)
-
 **Supported Platforms**
 
-If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/releases) tab, select the installer for your system.
+If you download from the [Releases](https://github.com/shyybi/BlueLauncher/releases) tab, select the installer for your system.
 
 | Platform | File |
 | -------- | ---- |
@@ -85,7 +82,7 @@ This section details the setup of a basic developmentment environment.
 **Clone and Install Dependencies**
 
 ```console
-> git clone https://github.com/dscalzi/BlueLauncher.git
+> git clone https://github.com/shyybi/BlueLauncher.git
 > cd BlueLauncher
 > npm install
 ```
